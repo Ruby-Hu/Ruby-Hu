@@ -4,15 +4,13 @@
 
 <p>I have a bachelor's degree in International Business from National Taiwan University, and work experience in finance and tech industries doing data analysis for sales forecasting. When I'm not working or studying, I'm  probably reading, cooking, or meeting new friends at a hackathon 👩🏻‍💻.</p>
 
-<h3>Languages I speak and Tools I Use</h3>
-<img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/> 
+<h3>Languages and Tools</h3>
+<img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/> 
 
 
 <h3>Let's connect</h3>
 <p>💼 LinkedIn</p>
-<br>
 <p>🌐 My Website (WIP)</p>
-<br>
 <p>📧 ruby.huwenshin@gmail.com</p>
 
 
