@@ -1,7 +1,8 @@
 <h2>Hello, my name is Ruby 👋</h2>
 
-<img align="right" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" width="250" height="250"/>
-
+<div align="center">
+  <img align="right" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" width="250" height="250"/>
+</div>
 
 <p>I am a Master's student studying Digital Media in Simon Fraser University, specializing in software engineering. I create digital experiences with web and AR, combining innovating technologies with creative solutions to solve real world problems.</p>
 
