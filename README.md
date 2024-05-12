@@ -25,9 +25,13 @@
 
 
 <h3>Let's connect</h3>
-<p>💼 LinkedIn</p>
-<p>🌐 My Website (WIP)</p>
-<p>📧 ruby.huwenshin@gmail.com</p>
+<p>
+  💼 <a href="https://www.linkedin.com/in/wenshin-ruby-hu/" target="blank">LinkedIn</a>
+  <br>
+  🌐 <a href="" target="blank">My Website (WIP)</a>
+  <br>
+  📧 ruby.huwenshin@gmail.com
+</p>
 
 
 <!--
