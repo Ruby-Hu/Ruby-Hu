@@ -24,7 +24,7 @@
 
 
 
-<h3>Let's connect</h3>
+<h3>Let's connect!</h3>
 <p>
   💼 <a href="https://www.linkedin.com/in/wenshin-ruby-hu/" target="blank">LinkedIn</a>
   <br>
