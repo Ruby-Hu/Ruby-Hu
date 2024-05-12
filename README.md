@@ -1,8 +1,11 @@
 <h2>Hello, my name is Ruby 👋</h2>
 
-<img align="right" src="https://giphy.com/gifs/cat-laptop-document-heIX5HfWgEYlW" width="300" height="300"/>
+<img align="right" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" width="250" height="250"/>
 
-<p>I am a Master's student studying Digital Media in Simon Fraser University, specializing in software engineering. I create digital experiences with web and AR, combining innovating technologies with creative solutions to solve real world problems. I developed an AR mobile app with interactive civic education modules to teach Vancouver high school students about urban planning, and am currently working on crafting a culturally-safe and respectful experience for the First Nations community to access healthcare.</p>
+
+<p>I am a Master's student studying Digital Media in Simon Fraser University, specializing in software engineering. I create digital experiences with web and AR, combining innovating technologies with creative solutions to solve real world problems.</p>
+
+<p>I developed an AR mobile app with interactive civic education modules to teach Vancouver high school students about urban planning, and I am currently working on crafting a culturally-safe and respectful experience to promote opportunities for the First Nations community to access healthcare.</p>
 
 <p>I have a bachelor's degree in International Business from National Taiwan University, and have worked in finance and tech industries doing data analysis for sales forecasting. When I'm not working or studying, I'm  probably reading, cooking, or meeting new friends at a hackathon 👩🏻‍💻.</p>
 
