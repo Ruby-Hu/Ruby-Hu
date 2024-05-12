@@ -27,9 +27,6 @@
 
 
 <h3>Let's connect!</h3>
-<div>
-  <img src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" width="250" height="250"/>
-</div>
 <p>
   💼 <a href="https://www.linkedin.com/in/wenshin-ruby-hu/" target="blank">LinkedIn</a>
   <br>
@@ -37,6 +34,9 @@
   <br>
   📧 ruby.huwenshin@gmail.com
 </p>
+<div>
+  <img src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" width="250" height="250"/>
+</div>
 
 
 <!--
