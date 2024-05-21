@@ -4,7 +4,7 @@
 
 <p>I developed an AR mobile app with interactive civic education modules to teach Vancouver high school students about urban planning, and I am currently working on crafting a culturally-safe and respectful experience for the First Nations community to access healthcare.</p>
 
-<p>I have a bachelor's degree in International Business from National Taiwan University, and have worked in finance and tech industries doing data analysis for sales forecasting. When I'm not working, I'm  probably reading 📚, cooking 🍲, or meeting new friends at a hackathon 👩🏻‍💻.</p>
+<p>I have a bachelor's degree in International Business from National Taiwan University, and have worked in finance and tech industries doing data analysis for sales forecasting. When I'm not working, I'm  probably reading 📚, cooking 🍲, or crocheting 🧶.</p>
 
 <h3>Languages and Tools</h3>
 <div>
