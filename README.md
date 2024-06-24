@@ -1,6 +1,6 @@
 <h2>Hello, my name is Ruby 👋</h2>
 
-<p>I am a Master's student studying Digital Media at Simon Fraser University, specializing in software engineering. I create digital experiences with web and AR, combining innovative technologies with creative solutions to solve real world problems.</p>
+<p>I am a Master's student studying Digital Media at Simon Fraser University, specializing in software development. I create digital experiences with web and AR, combining innovative technologies with creative solutions to solve real world problems.</p>
 
 <p>I developed an AR mobile app with interactive civic education modules to teach Vancouver high school students about urban planning, and I am currently working on crafting a culturally-safe and respectful experience for the First Nations community to access healthcare.</p>
 
