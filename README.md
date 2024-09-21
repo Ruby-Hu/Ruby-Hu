@@ -17,22 +17,11 @@
   <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-original.svg?plain=1" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
+<br>
 
-
-
-
-<h3>Let's connect!</h3>
-<p>
-  💼 <a href="https://www.linkedin.com/in/wenshin-ruby-hu/" target="blank">LinkedIn</a>
-  <br>
-  🌐 <a href="" target="blank">My Website (WIP)</a>
-  <br>
-  📧 ruby.huwenshin@gmail.com
-</p>
 <div>
   <img src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" width="250" height="250"/>
 </div>
-
 
 <!--
 **HuWenShin/HuWenShin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
